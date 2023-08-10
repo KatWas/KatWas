@@ -12,7 +12,7 @@
 
 -Stuff I was learning and still grinding 😅
 
-![My Skills](https://skillicons.dev/icons?i=git,github,typescript,react,nextjs,jest,css,node)
+![My Skills](https://skillicons.dev/icons?i=git,github,typescript,react,nextjs,jest,css,node,ajax,mongodb,npm)
 
 📫Contact me:
 [Linkedin](https://www.linkedin.com/in/katarzyna-wasilewska-703b78103/)
