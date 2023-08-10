@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**KatWas/KatWas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![logo](https://github.com/KatWas/Kasia-cv/blob/main/asssets/Junior%20Fullstack%20Developer.jpg)
 
-Here are some ideas to get you started:
+##Hi there 🖐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-🤞I'm curently learning to became Junior Fullstack Developer
+
+-🕗I'd finished 8-months bootcamp Fullstack Developer on [Kodilla](https://www.kodilla.com)
+
+-😀I'm looking for new projects to start working as a junior fullstack developer 
+
+-Stuff I was learning and still grinding 😅
+
+![My Skills](https://skillicons.dev/icons?i=git,github,typescript,react,nextjs,jest,css,node)
+
+📫Contact me:
+[Linkedin](https://www.linkedin.com/in/katarzyna-wasilewska-703b78103/)
+
+
