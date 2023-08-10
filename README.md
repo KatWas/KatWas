@@ -16,7 +16,8 @@
 
 Contact me:
 🖥[Linkedin](https://www.linkedin.com/in/katarzyna-wasilewska-703b78103/)
+
 📩
-[email](kwasilewska2014@gmail.com)
+email: kwasilewska2014@gmail.com
 
 
