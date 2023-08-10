@@ -14,8 +14,9 @@
 
 ![My Skills](https://skillicons.dev/icons?i=git,github,typescript,react,nextjs,jest,css,npm,node)
 
-📫Contact me:
-[Linkedin](https://www.linkedin.com/in/katarzyna-wasilewska-703b78103/)
+Contact me:
+🖥[Linkedin](https://www.linkedin.com/in/katarzyna-wasilewska-703b78103/)
+📩
 [email](kwasilewska2014@gmail.com)
 
 
