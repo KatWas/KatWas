@@ -1,4 +1,4 @@
-<img alt="Hello I'm Kate" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=A66FFF&center=false&vCenter=true&width=435&lines=Hello+I'm+Kate">
+
 
 ![logo](https://github.com/KatWas/Kasia-cv/blob/main/asssets/Junior%20Fullstack%20Developer.jpg)
 
