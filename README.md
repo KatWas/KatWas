@@ -6,7 +6,7 @@
 
 -🤞I'm curently learning to became Junior Fullstack Developer
 
--🕗I'd finished 8-months bootcamp Fullstack Developer on [Kodilla](https://www.kodilla.com)
+-🕗I'd finished 8-months bootcamp Fullstack Developer in [Kodilla](https://www.kodilla.com)
 
 -😀I'm looking for new projects to start working as a junior fullstack developer 
 
